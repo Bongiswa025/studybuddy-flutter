@@ -46,3 +46,7 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+# Firebase sender dependencies and private credentials
+firebase-sender/node_modules/
+firebase-sender/service-account.json
+firebase-sender/*service-account*.json
